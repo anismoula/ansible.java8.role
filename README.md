@@ -1,5 +1,7 @@
 Java 8 Ansible Role
 =========
+[![Build Status](https://travis-ci.org/anismoula/ansible.java8.role.svg?branch=master)](https://travis-ci.org/anismoula/ansible.java8.role)
+
 Install Java 8 for Debian/Ubuntu Linux Servers
 
 Requirements
