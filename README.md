@@ -5,7 +5,7 @@
 Install Java 8 for Debian/Ubuntu Linux Servers
 
 ## Requirements
-------------
+
 
 None
 
