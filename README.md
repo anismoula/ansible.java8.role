@@ -20,10 +20,10 @@ None
 ## Example Playbook
 
 - hosts: host
-  gather_facts: no
   become: yes
+  gather_facts: no
   roles:
-   - ansible.java8.role
+    - role: ansible.java8.role
 
 ## License
 
