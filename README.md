@@ -5,7 +5,7 @@ Install Java 8 for Debian/Ubuntu Linux Servers
 Requirements
 ------------
 
-None 
+None
 
 
 Role Variables
@@ -21,7 +21,6 @@ Example Playbook
 ----------------
 
 
----
 - hosts: host
   gather_facts: no
   become: yes
