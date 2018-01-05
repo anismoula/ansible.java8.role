@@ -20,8 +20,9 @@ None
 ## Example Playbook
 
     - hosts: servers
+      become: yes
       roles:
-        - ansible.role.java
+        - ansible.role.java8
 
 ## License
 
