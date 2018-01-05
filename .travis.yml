@@ -18,3 +18,5 @@ script:
   - ansible-playbook -i tests/inventory tests/test.yml --syntax-check
 
   - ansible-playbook -i tests/inventory tests/test.yml --connection=local
+
+  - java -version
